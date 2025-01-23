@@ -1,11 +1,12 @@
 import React from "react";
-import LampDemo from "@/components/ui/lamp";
+import { BackgroundGradientAnimationDemo } from "@/components/GradientComp";
+
 
 const page = () => {
     return (
-        <>
-            <LampDemo />;
-        </>
+        <div>
+            <BackgroundGradientAnimationDemo />
+        </div>
     );
 };
 
