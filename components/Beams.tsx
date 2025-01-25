@@ -2,7 +2,6 @@
 import React from "react";
 import { BackgroundBeams } from "./ui/background-beams";
 import { FloatingDockDemo } from "@/components/FloatingDock";
-import Image from "next/image";
 
 export function BackgroundBeamsDemo() {
     return (
